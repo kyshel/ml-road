@@ -1,3 +1,17 @@
+# index
+- nothing here, just record
+
+
+
+
+# tricks
+- make net from scratch, or use cutey?  use cutey
+
+
+
+
+
+
 ```
 # Queue
 - write runnable code
